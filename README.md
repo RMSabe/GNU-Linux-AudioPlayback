@@ -9,3 +9,5 @@ This code uses the ALSA build resources. If not installed, they can be installed
 When compiling, asoundlib resource link must be called. "-lasound".
 
 I made this code just for fun. Don't expect professional performance from it.
+
+Author: Rafael Sabe
