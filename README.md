@@ -11,3 +11,4 @@ When compiling, asoundlib resource link must be called. "-lasound".
 I made this code just for fun. Don't expect professional performance from it.
 
 Author: Rafael Sabe
+Email: rafaelmsabe@gmail.com
